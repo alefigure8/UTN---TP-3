@@ -1,7 +1,7 @@
 //Nombre: NOMBRE
-//TP Nº
-//EJ Nº
-//Comentarios:
+//TP Nº 3
+//EJ Nº 5
+//Comentarios: Hacer un programa para que el usuario ingrese dos números y luego el programa muestre por pantalla los números entre el menor y el mayor de ambos. 
 
 #include <iostream>
 using namespace std;
