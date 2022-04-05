@@ -1,7 +1,7 @@
 //Nombre: NOMBRE
-//TP Nº
-//EJ Nº
-//Comentarios:
+//TP Nº 3
+//EJ Nº 21
+//Comentarios:  Dada una lista de 7 números informar el primer número par ingresado y su ubicación en la lista y el último de los números primos y su ubicación en la lista.
 
 #include <iostream>
 using namespace std;
